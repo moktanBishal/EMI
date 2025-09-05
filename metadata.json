@@ -1,0 +1,5 @@
+{
+  "name": "EMI Calculator",
+  "description": "A clean and modern web application to calculate the Equated Monthly Installment (EMI) for a loan. Users can input the loan amount, interest rate, and tenure to instantly see their monthly payment, total interest, and total repayment amount, visualized with an interactive chart.",
+  "requestFramePermissions": []
+}
